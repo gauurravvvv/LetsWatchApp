@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LetsMovie</string>
+    <string name="popular_tv_shows_movies">Popular TV Shows / Movies</string>
+    <string name="read_more">Read More</string>
+    <string name="show_less">Show Less</string>
+    <string name="u2022">•</string>
+    <string name="website">Website</string>
+    <string name="episodes">Episodes</string>
+    <string name="watchlist">WatchList</string>
+    <string name="search_for_tv_show">Search For TV Show</string>
+
+</resources>
